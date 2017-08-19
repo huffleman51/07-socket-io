@@ -2,5 +2,5 @@ Tutorial that I followed is [here](https://github.com/huffleman51/js-stack-from-
 
 # What I learned in this module
 
-1.
+1. Socket.IO is a library to easily deal with Websockets. It provides a convenient API and fallback for browsers that don't support Websockets.
 
